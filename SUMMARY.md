@@ -2,7 +2,7 @@
 
 * [Главная страница](README.md)
 
-## Гайды
+## Гайды <a id="guides"></a>
 
-* [Установка бота на хероку](gaidy/ustanovka-bota-na-heroku.md)
+* [Установка бота на хероку](guides/deploying-bot-on-heroku.md)
 
