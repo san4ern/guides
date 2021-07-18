@@ -6,3 +6,7 @@
 
 * [Установка бота на хероку](guides/deploying-bot-on-heroku.md)
 
+## API
+
+* [Random Image](api/random-image.md)
+
