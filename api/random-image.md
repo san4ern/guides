@@ -1,5 +1,11 @@
 # Random Image
 
+{% hint style="warning" %}
+You can use package for it
+
+[https://www.npmjs.com/package/random-img-lib](https://www.npmjs.com/package/random-img-lib)  
+{% endhint %}
+
 {% api-method method="get" host="https://san4ouZ.ml" path="/random?q=:type" %}
 {% api-method-summary %}
 Get random image
