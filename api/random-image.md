@@ -18,7 +18,7 @@ This endpoint allows you to get random image
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-query-parameters %}
-{% api-method-parameter name="q" type="string" %}
+{% api-method-parameter name="q" type="string" required=true %}
 Allowed types are foxes, memes, fennec, dogs, cats
 {% endapi-method-parameter %}
 {% endapi-method-query-parameters %}
